@@ -26,3 +26,14 @@ ion-menu-button {
 #container a {
   text-decoration: none;
 }
+
+#card {
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+.card-image {
+  width: 150px;
+  height: 200px;
+  border-radius: 8px; /* Optional: to add rounded corners */
+}
